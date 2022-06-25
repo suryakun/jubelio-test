@@ -20,7 +20,7 @@
     "customize-cra": "^0.9.1",
     "dotenv": "^8.2.0",
     "hapi": "^18.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "pg": "^8.0.2",
     "pg-hstore": "^2.3.3",
     "react-app-rewire-mobx": "^1.0.9",
